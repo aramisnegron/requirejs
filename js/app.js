@@ -25,9 +25,10 @@ function   ($,       underscore  ,  purchase,   cart) {
 
       cart.getItems("1","2");
 
-      $( "p" ).html( "Samples requirejs" );
+        $('p').html("<a href='http://farm5.static.flickr.com/4057/4606778453_1223b68c77.jpg'>Relaxing at the pool</a>");
+     /* $( "p" ).html( "Samples requirejs" );
       $("p").html("Where is our Security Princess?");
-      $("p").append("Our salary range sucks!!!!");
+      $("p").append("Our salary range sucks!!!!");*/
 
 
 });
